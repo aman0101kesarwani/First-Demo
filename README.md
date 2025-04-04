@@ -1,3 +1,4 @@
 # First-Demo
-This is my first Git Repository
-Second Change
+This is my first Git Repository.
+<br>
+Second Change.
